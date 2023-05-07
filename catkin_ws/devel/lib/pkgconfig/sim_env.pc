@@ -1,0 +1,8 @@
+prefix=/home/workspace/course_project/catkin_ws/devel
+
+Name: sim_env
+Description: Description of sim_env
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

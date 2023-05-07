@@ -1,0 +1,8 @@
+prefix=/home/workspace/course_project/catkin_ws/install
+
+Name: delivery
+Description: Description of delivery
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
